@@ -16,6 +16,9 @@ Please report if the search doesn't work properly for some papers.
 
 ### Firefox
 
+Apparently Firefox doesn't allow you to install unsigned extensions unless you have a developer version of the browser, but you can do the following:
+
 1. Clone this repository or download the .zip file and unpack.
 2. Go to `about:debugging` in your browser and click on "This Firefox".
 3. Add the extension by pressing "Load Temporary Add-On" and choosing the file `manifest.json` in the extension directory.
+
