@@ -1,7 +1,7 @@
 {
   "name": "Google Scholar Cited By link",
   "description": "Makes \"Cited by\" on the Google search results page a clickable link to a Google Scholar search",
-  "version": "0.01",
+  "version": "0.011",
   "manifest_version": 2,
   "content_scripts": [
    {
